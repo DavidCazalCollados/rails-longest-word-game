@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+li {
+  display: inline-block;
+  background-color: rgb(110, 175, 205);
+  padding: 20px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin: 50px 5px;
+  border: solid blue;
+}
+
+form {
+  margin: 50px 45px ;
+}
+
+h1 {
+  margin: 20px 45px ;
+}
